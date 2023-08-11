@@ -236,7 +236,7 @@ def apartman_ciz(cati_yuksekligi, kat_yuksekligi, kat_sayisi, cati_cizim_karakte
         yatay_cizgi_ciz(2 * cati_yuksekligi - 1, cati_cizim_karakteri)
 
 
-def fiyonk_merdiveni_ciz(fiyonk_yuksekligi, fiyonk_sayisi, ust_cizim_karakteri, alt_cizim_karakteri):
+def fiyonk_merdiveni_ciz(fiyonk_yuksekligi, fiyonk_sayisi, ust_cizim_karakteri, alt_cizim_karakteri):  # recursive
     if fiyonk_sayisi == 0:
         return
 
