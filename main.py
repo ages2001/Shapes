@@ -44,6 +44,7 @@ def main():
     apartman_ciz(number2, number1, number3, character1, character2)
     print()
     fiyonk_merdiveni_ciz(2 * number1, number3, character2, character1)
+    print()
 
 
 def tamsayi_al(alt_sinir, ust_sinir):
