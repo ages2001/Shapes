@@ -245,8 +245,5 @@ def fiyonk_merdiveni_ciz(fiyonk_yuksekligi, fiyonk_sayisi, ust_cizim_karakteri, 
     fiyonk_merdiveni_ciz(fiyonk_yuksekligi, fiyonk_sayisi - 1, ust_cizim_karakteri, alt_cizim_karakteri)
 
 
-
-
-
 if __name__ == '__main__':
     main()
